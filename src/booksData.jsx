@@ -1,5 +1,3 @@
-// src/booksData.js
-
 const books = [
   {
     id: 1,
@@ -28,7 +26,6 @@ const books = [
     coverImage:
       "https://images-na.ssl-images-amazon.com/images/I/81af+MCATTL.jpg",
   },
-  // Add more books as needed
 ];
 
 export default books;
